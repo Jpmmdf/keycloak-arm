@@ -2,7 +2,7 @@
 
 **docker hub:** [![Docker Pulls](https://img.shields.io/docker/pulls/mihaibob/keycloak.svg)](https://hub.docker.com/r/mihaibob/keycloak) 
 <br>
-**buy me a coffe:** [![Buy a coffe](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.com/paypalme2/mihaibob/1?locale.x=en_US)
+
 
 ## Available Keycloak versions
 ### ARM
